@@ -14,4 +14,4 @@
 - But given the volume of transactions that occur everyday that means a lot of money.
 - We need to build the classifier system based on the dataset that can tell wether the classifier is fraudulent or non-fraudulent.
 - We will build a deep learning network and we are going to apply more traditional machine learning algorithm such as random forest.
-- We will consider only 2 labels in our classifier '0' for non-fraudulent transaction and '1' for fraudulent transactions.
+- We will consider only 2 labels in our classifier '0' for non-fraudulent transaction and '1' for fraud-leunt Transactions.
